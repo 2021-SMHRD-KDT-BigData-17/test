@@ -5,6 +5,8 @@ public class test {
 	
 	 System.out.println("지윤 씀");
 	 
+	 System.out.println("지윤2 씀");
+	 
 	 
 }
 }
